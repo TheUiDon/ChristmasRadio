@@ -806,6 +806,14 @@ section {
   }
 }
 
+@media (max-width: 1059px) {
+  iframe {
+    width: 100%;
+    justify-content: center;
+    align-self: center;
+  }
+}
+
 @media (max-width: 450px) {
   html {
     font-size: 50%;
